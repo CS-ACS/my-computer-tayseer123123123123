@@ -7,5 +7,5 @@
 * Wireless (Wi-Fi/Bluetooth): Yes.
 * Ports: Hdmi, Usb A, display port, usb C, AUX jack, many more and most ports have more than one port for them.
 GPU: Nvidea RTX 2060
-This computor was build by me suring covid and it is very strong and can do everything that I use it for. My computer has a lot of storge for all the programs and games I run on it.![My Computer](![BFD3A6AC-C00F-4E24-B979-5602EA7E507D](https://user-images.githubusercontent.com/89731780/132344561-cb417099-e885-40b3-b31d-73a357882356.jpeg)
-)
+This computor was build by me suring covid and it is very strong and can do everything that I use it for. My computer has a lot of storge for all the programs and games I run on it.![My Computer](https://user-images.githubusercontent.com/89731780/132344561-cb417099-e885-40b3-b31d-73a357882356.jpeg)
+
