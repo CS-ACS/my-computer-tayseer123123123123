@@ -13,5 +13,6 @@ Describe each of the following aspects of your computer's hardware configuration
 * Storage (HDD/SSD/Flash/etc.)
 * Wireless (Wi-Fi/Bluetooth)
 * Ports
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of PC] (![BFD3A6AC-C00F-4E24-B979-5602EA7E507D](https://user-images.githubusercontent.com/89731780/132325338-e546ce60-c6e2-41cc-9d84-2f4799127b77.jpeg)
+)
 
